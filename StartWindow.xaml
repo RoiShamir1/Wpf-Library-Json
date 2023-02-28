@@ -1,0 +1,43 @@
+﻿<Window x:Class="FinalManager.StartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalManager"
+        mc:Ignorable="d"
+        Title="StartWindow" Height="450" Width="800">
+    <Grid Background="#FF76D6DE">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Margin="0,0,0,20"
+                   HorizontalAlignment="Center" FontSize="45" FontFamily="Segoe UI Light" Text="Manager shop" />
+
+        <!--Username row-->
+        <TextBlock Grid.Row="1" Grid.Column="1"  Margin="0,0,0,10" Text="Name:" FontSize="20"/>
+        <TextBox x:Name="Name" Grid.Row="1" Grid.Column="2" MinWidth="100"
+                   Margin="0,0,0,10" FontSize="20" Background="White" FontWeight="Normal" SelectionBrush="White" Foreground="Black"/>
+
+        <!--ID.number row-->
+        <TextBlock Grid.Row="2" Grid.Column="1"  Margin="0,0,0,10" Text="Password:" FontSize="20"/>
+        <TextBox x:Name="Password" Grid.Row="2" Grid.Column="2"  MinWidth="100"
+                   Margin="0,0,0,10" FontSize="20" FontWeight="Normal" SelectionBrush="White" Foreground="Black"/>
+
+        <!--login row-->
+        <Button Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" Padding="20,5"
+                HorizontalAlignment="Center" x:Name ="loginButton" Content="Log in" Click="loginButton_Click" FontSize="14" />
+        <Button Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" Width="130" Height="50"
+                x:Name ="CloseButton" Content="Close" FontSize="20" Click="CloseButton_Click"/>
+    </Grid>
+</Window>

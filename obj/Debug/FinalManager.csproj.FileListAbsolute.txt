@@ -1,0 +1,122 @@
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.AssemblyReference.cache
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\MainWindow.g.cs
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\StartWindow.g.cs
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\App.g.cs
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\FinalManager_MarkupCompile.cache
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\FinalManager_MarkupCompile.lref
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\FinalManager.exe.config
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\FinalManager.exe
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\FinalManager.pdb
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\BookLibrary.dll
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\Uno.dll
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\Uno.Foundation.dll
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\BookLibrary.pdb
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\BookLibrary.dll.config
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\MainWindow.baml
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\StartWindow.baml
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\FinalManager.g.resources
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\FinalManager.Properties.Resources.resources
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.GenerateResource.cache
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.CoreCompileInputs.cache
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.CopyComplete
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\FinalManager.exe
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\FinalManager.pdb
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\AddMoviesP.g.cs
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\AddMoviesP.baml
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\UpdateItem.g.cs
+C:\Users\Roi Shamir\Desktop\FinalManager\FinalManager\obj\Debug\UpdateItem.baml
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\FinalManager.exe.config
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\FinalManager.exe
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\FinalManager.pdb
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\Uno.dll
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\Uno.Foundation.dll
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\BookLibrary.pdb
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\BookLibrary.dll.config
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.AssemblyReference.cache
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\AddMoviesP.g.cs
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\MainWindow.g.cs
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\StartWindow.g.cs
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\UpdateItem.g.cs
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\App.g.cs
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager_MarkupCompile.cache
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager_MarkupCompile.lref
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\AddMoviesP.baml
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\MainWindow.baml
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\StartWindow.baml
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\UpdateItem.baml
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager.g.resources
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager.Properties.Resources.resources
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.GenerateResource.cache
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.CoreCompileInputs.cache
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.CopyComplete
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager.exe
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager.pdb
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\System.Memory.dll
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\System.Buffers.dll
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\FinalManager\FinalManager\obj\Debug\FinalManager.exe.config
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\FinalManager.exe.config
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\FinalManager.exe
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\FinalManager.pdb
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\Uno.dll
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\Uno.Foundation.dll
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\System.Memory.dll
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\System.Buffers.dll
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\BookLibrary.pdb
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\BookLibrary.dll.config
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.AssemblyReference.cache
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager.exe.config
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\AddMoviesP.g.cs
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\MainWindow.g.cs
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\StartWindow.g.cs
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\UpdateItem.g.cs
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\App.g.cs
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager_MarkupCompile.cache
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager_MarkupCompile.lref
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\AddMoviesP.baml
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\MainWindow.baml
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\StartWindow.baml
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\UpdateItem.baml
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager.g.resources
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager.Properties.Resources.resources
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.GenerateResource.cache
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.CoreCompileInputs.cache
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager.csproj.CopyComplete
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager.exe
+C:\Users\Roi Shamir\Desktop\ProjsForWork\FinalManager\FinalManager\obj\Debug\FinalManager.pdb

@@ -1,0 +1,76 @@
+﻿<Window x:Class="FinalManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalManager"
+        xmlns:data2="clr-namespace:BookLibrary;assembly=BookLibrary"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FF4FD7BD">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="172*"/>
+        </Grid.RowDefinitions>
+        <ComboBox x:Name="SortBy" SelectedIndex="0" HorizontalAlignment="Left" VerticalAlignment="Center" Height="35" Width="91" Margin="49,0,0,0" FontSize="16" />
+        <!--<ComboBox x:Name="SortDir" SelectedIndex="0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="35" Width="91" Margin="100,25,0,0" FontSize="13" />-->
+        <Button x:Name="CloseButton" Content="Close" FontSize="18" Margin="43,271,53,21" Grid.Row="1" Click="CloseButton_Click" />
+        <Button x:Name="MoveMovieP" Content="Add Item" Grid.Column="1" FontSize="22" Click="MoveMovieP_Click" Grid.ColumnSpan="2" Margin="100,0,100,0" />
+        <Button x:Name="UpdateItem" Content="Update" FontSize="18" Margin="49,55,56,239" Grid.Row="1" Click="UpdateItem_Click" />
+        <Button x:Name="DeleteItem" Content="Delete" FontSize="18" Margin="49,113,56,181" Grid.Row="1" Click="DeleteItem_Click" />
+        <Button x:Name="Report" Content="Show discount" FontSize="13" Grid.Row="1" Margin="49,177,56,117" Click="Report_Click" />
+        <ListView x:Name="MyList" ItemsSource="{Binding Source=1}" Background="#FF4FD7BD" Grid.Column="1" Grid.RowSpan="2" Margin="0,90,0,0" Grid.ColumnSpan="2" SelectionChanged="MyList_SelectionChanged">
+            <ListView.ItemTemplate>
+                <DataTemplate DataType="{x:Type data2:Movie }">
+                    <StackPanel Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Type: "></TextBlock>
+                            <TextBlock Text="{Binding Type}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Name: "></TextBlock>
+                            <TextBlock Text="{Binding Name}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Price: "></TextBlock>
+                            <TextBlock Text="{Binding FinalPrice}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Gener: "></TextBlock>
+                            <TextBlock Text="{Binding Geners}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Description: "></TextBlock>
+                            <TextBlock Text="{Binding Description}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Discount: "></TextBlock>
+                            <TextBlock Text="{Binding Discount}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Stock: "></TextBlock>
+                            <TextBlock Text="{Binding Stock}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Created: "></TextBlock>
+                            <TextBlock Text="{Binding Created}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="ISBN: "></TextBlock>
+                            <TextBlock Text="{Binding ISBN}"></TextBlock>
+                        </StackPanel>
+                        <StackPanel>
+                            <TextBlock Text="" ></TextBlock>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Window>
